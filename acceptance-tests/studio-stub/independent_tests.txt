@@ -1,0 +1,1 @@
+Independent tests for customer/view-customer (stub agent, attempt 6)
